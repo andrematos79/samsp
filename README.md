@@ -7,6 +7,7 @@ Industrial IoT system for environmental monitoring, material traceability, and s
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![C++](https://img.shields.io/badge/C++-ESP32-blue)
 ![IoT](https://img.shields.io/badge/Industrial-IoT-orange)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22284693.svg)](https://doi.org/10.5281/zenodo.22284693)
 
 ## System Preview
 
@@ -124,7 +125,11 @@ Co-author
 
 ## Citation
 
-A DOI record for the SAMSP technical documentation will be made available through Zenodo.
+If you reference SAMSP in technical, academic, or research work, please use the following citation:
+
+**Matos, André Gama de; Matos, André Logan Almeida de. (2026).  
+SAMSP – Smart Ambient Monitoring for Solder Paste (v0.6.0). Zenodo.**  
+https://doi.org/10.5281/zenodo.22284693
 
 ## License and Intellectual Property Notice
 
