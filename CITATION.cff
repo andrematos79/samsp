@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use or reference SAMSP, please cite it using the metadata below."
+
+title: "SAMSP – Smart Ambient Monitoring for Solder Paste"
+
+type: software
+
+authors:
+  - family-names: "Matos"
+    given-names: "André Gama de"
+  - family-names: "Matos"
+    given-names: "André Logan Almeida de"
+
+version: "0.6.0"
+
+date-released: 2026-09-03
+
+repository-code: "https://github.com/andrematos79/samsp"
+
+url: "https://github.com/andrematos79/samsp"
+
+keywords:
+  - Industrial IoT
+  - Embedded Systems
+  - Solder Paste
+  - Electronics Manufacturing
+  - Environmental Monitoring
+  - Traceability
+  - ESP32
+  - Python
+  - C++
+  - Industrial Automation
