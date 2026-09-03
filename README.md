@@ -8,6 +8,12 @@ Industrial IoT system for environmental monitoring, material traceability, and s
 ![C++](https://img.shields.io/badge/C++-ESP32-blue)
 ![IoT](https://img.shields.io/badge/Industrial-IoT-orange)
 
+## System Preview
+
+![SAMSP Dashboard](images/samsp-dashboard.png)
+
+*SAMSP real-time monitoring dashboard for environmental conditions, alarms, door status, and material inventory.*
+
 ## Overview
 
 **SAMSP – Smart Ambient Monitoring for Solder Paste** is an industrial monitoring and traceability solution designed to support the storage and handling of solder paste in electronics manufacturing environments.
@@ -33,6 +39,18 @@ SAMSP was developed using **C++ and Python**, combining embedded systems, IoT, i
 - Administrative configuration interface
 - ESP32 communication via USB/Serial
 - Local network dashboard access
+
+## Material Traceability
+
+![SAMSP Traceability](images/samsp-traceability.png)
+
+SAMSP provides QR Code-based material traceability for solder paste containers, supporting inventory control, material entry and withdrawal records, operator identification, and FIFO enforcement.
+
+## Administration and Process Configuration
+
+![SAMSP Administration](images/samsp-admin.png)
+
+The administrative interface allows authorized users to configure process parameters, manage operators, define monitoring limits, and maintain system settings for the industrial environment.
 
 ## System Architecture
 
